@@ -4,40 +4,6 @@
     background-color: darkblue;
 }
 
-.App-header {
-    background-color: white;
-    display: flex;
-    justify-content: center;
-}
-
-.opcoes {
-    display: flex;
-}
-
-.opcao {
-    font-size: 16px;
-    display: flex;
-    justify-content: center;
-    height: 100%;
-    padding: 0 5px;
-    cursor: pointer;
-    min-width: 120px;
-}
-
-.opcao:hover {
-    background-color: yellow;
-}
-
-.icones {
-    display: flex;
-}
-
-.icone {
-    margin-right: 40px;
-    width: 25px;
-    cursor: pointer;
-}
-
 li {
     list-style: none;
 }
